@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="blue">#33CCFF</color>
+    <color name="orange">#FF9900</color>
+    <color name="green">#00CC00</color>
+    <color name="zise">#6600FF</color>
+    <color name="coffee">#330000</color>
+
+    <!-- 一般字体颜色：深黑 -->
+    <color name="font_color_deep_black">#333333</color>
+    <!-- 一般字体颜色：普通黑 -->
+    <color name="font_color_normal_black">#666666</color>
+    <!-- 一般字体颜色：淡黑 -->
+    <color name="font_color_light_black">#999999</color>
+
+</resources>
